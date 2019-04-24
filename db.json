@@ -7,10 +7,108 @@
       "pIva": 125440104,
       "stazApp": "ASET s.p.a.",
       "stazAppHref": "/",
-      "protocol": 1,
+      "protocol": 1000123,
+      "protocolDate": "12/04/2017",
+      "category": "19 , 21.A , 22.O"
+    },
+    {
+      "id": 2,
+      "name": "ABB S.P.A",
+      "nameHref": "/,",
+      "pIva": 125440104,
+      "stazApp": "ASET s.p.a.",
+      "stazAppHref": "/",
+      "protocol": 1000123,
+      "protocolDate": "12/04/2017",
+      "category": "19 , 21.A , 22.O"
+    },
+    {
+      "id": 3,
+      "name": "ABB S.P.A",
+      "nameHref": "/,",
+      "pIva": 125440104,
+      "stazApp": "ASET s.p.a.",
+      "stazAppHref": "/",
+      "protocol": 1000123,
+      "protocolDate": "12/04/2017",
+      "category": "19 , 21.A , 22.O"
+    },
+    {
+      "id": 4,
+      "name": "ABB S.P.A",
+      "nameHref": "/,",
+      "pIva": 125440104,
+      "stazApp": "ASET s.p.a.",
+      "stazAppHref": "/",
+      "protocol": 1000123,
+      "protocolDate": "12/04/2017",
+      "category": "19 , 21.A , 22.O"
+    },
+    {
+      "id": 5,
+      "name": "ABB S.P.A",
+      "nameHref": "/,",
+      "pIva": 125440104,
+      "stazApp": "ASET s.p.a.",
+      "stazAppHref": "/",
+      "protocol": 1000123,
+      "protocolDate": "12/04/2017",
+      "category": "19 , 21.A , 22.O"
+    },
+    {
+      "id": 6,
+      "name": "ABB S.P.A",
+      "nameHref": "/,",
+      "pIva": 125440104,
+      "stazApp": "ASET s.p.a.",
+      "stazAppHref": "/",
+      "protocol": 1000123,
+      "protocolDate": "12/04/2017",
+      "category": "19 , 21.A , 22.O"
+    },
+    {
+      "id": 7,
+      "name": "ABB S.P.A",
+      "nameHref": "/,",
+      "pIva": 125440104,
+      "stazApp": "ASET s.p.a.",
+      "stazAppHref": "/",
+      "protocol": 1000123,
+      "protocolDate": "12/04/2017",
+      "category": "19 , 21.A , 22.O"
+    },
+    {
+      "id": 8,
+      "name": "ABB S.P.A",
+      "nameHref": "/,",
+      "pIva": 125440104,
+      "stazApp": "ASET s.p.a.",
+      "stazAppHref": "/",
+      "protocol": 1000123,
+      "protocolDate": "12/04/2017",
+      "category": "19 , 21.A , 22.O"
+    },
+    {
+      "id": 9,
+      "name": "ABB S.P.A",
+      "nameHref": "/,",
+      "pIva": 125440104,
+      "stazApp": "ASET s.p.a.",
+      "stazAppHref": "/",
+      "protocol": 1000123,
+      "protocolDate": "12/04/2017",
+      "category": "19 , 21.A , 22.O"
+    },
+    {
+      "id": 10,
+      "name": "ABB S.P.A",
+      "nameHref": "/,",
+      "pIva": 125440104,
+      "stazApp": "ASET s.p.a.",
+      "stazAppHref": "/",
+      "protocol": 1000123,
       "protocolDate": "12/04/2017",
       "category": "19 , 21.A , 22.O"
     }
   ]
 }
-
